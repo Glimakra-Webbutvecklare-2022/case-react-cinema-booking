@@ -9,7 +9,7 @@ I detta caset ska ni arbeta individuellt. Scenariot är att en vän har köpt en
     - en välkomnstsida som presenterar Bio-salongen och vilka film-titlar som finns just nu.
     - en bokningssida som visar vilka föreställningar man kan boka samt hur många lediga platser
 - Varje UI enhet ska vara sin egen komponent
-- `useEffect` ska användas för att hämta information från json-fil. `cinema.json` medföljer i detta repot som är ett förslag till struktur av data (men inte färdigt). Se kodexempel för att komma igång med useEffect. Se `App-exempel.js`.
+- `useEffect` ska användas för att hämta information från json-fil. `cinema.json` medföljer i detta repot som är ett förslag till struktur av data (men inte färdigt). Se kodexempel för att komma igång med useEffect. Se `app-example.jsx`.
 - En användare ska kunna välja mellan **minst fem filmer** och varje film ska ha **minst 4 föreställningar**.
 - En användare ska kunna söka bland filmtitlar
 - Inga felmeddelande i konsolen
