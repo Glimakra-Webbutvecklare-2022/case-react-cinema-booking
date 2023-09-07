@@ -33,7 +33,7 @@ Veckan efter presentation kommer feedback ges under följande rubriker:
 *Designfeedback tillkommer från Mattias*
 
 # Presentation- och Inlämningsdatum
-Enligt planering hålls presentation av caset under början av vecka 37. Resten av veckan har ni tid för justering. 
+Enligt planering hålls presentation av caset under början av vecka 38. Resten av veckan har ni tid för justering. 
 - Preliminärt datum för presentation är **2022-09-20, ondag kl. 10.30.**
 - Preliminärt datum för caseinlämning är **2021-09-23, Söndag kl. 23.59.**
 
