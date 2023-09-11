@@ -34,8 +34,8 @@ Veckan efter presentation kommer feedback ges under följande rubriker:
 
 # Presentation- och Inlämningsdatum
 Enligt planering hålls presentation av caset under början av vecka 38. Resten av veckan har ni tid för justering. 
-- Preliminärt datum för presentation är **2022-09-20, ondag kl. 10.30.**
-- Preliminärt datum för caseinlämning är **2021-09-23, Söndag kl. 23.59.**
+- Preliminärt datum för presentation är **2023-09-20, ondag kl. 10.30.**
+- Preliminärt datum för caseinlämning är **2023-09-23, söndag kl. 23.59.**
 
 ## Inlämning
 Dela ett repo med Henry (@frozenbanana), Anders (@andsju) och mattias (@addkolon) 
